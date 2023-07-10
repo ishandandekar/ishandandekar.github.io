@@ -13,26 +13,26 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: Asia/Kolkata
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Ishan Dandekar # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: my unconventional journal # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  blog
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://ishandandekar.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: ishandandekar # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: DandekarIshan # change to your twitter username
 
 social:
   # Change to your full name.
@@ -76,7 +76,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://en.gravatar.com/userimage/237339752/e3741a6f2807e9b0c900383497f42346?size=512
 
 # boolean type, the global switch for TOC in posts.
 toc: true
